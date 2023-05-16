@@ -14,7 +14,7 @@ function Todo({todo, removeTodo, completeTodo}) {
                 <button
                     className='complete'
                     onClick={() => completeTodo(todo.id)}
-                >Completar
+                >Complete
                 </button>
                 <button
                     className='remove'

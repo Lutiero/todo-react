@@ -25,6 +25,10 @@ h2 {
     margin-bottom: 10px;
 }
 
+h5 {
+    margin-bottom: 4px;
+}
+
 p {
     margin: 10px 0;
 }
@@ -87,7 +91,4 @@ input, select {
     width: 100%;
 }
 
-.isCompleted {
-
-}
 
